@@ -1,8 +1,8 @@
 body{
-    background-color:rgba(160, 149, 100);
+    background-color:rgba(42, 35, 143, 0.829);
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #5ee0cf;
+    color: #050004;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -10,7 +10,7 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #3c918c;
+    color: #073532;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -19,7 +19,7 @@ body{
     font-family: 'Lucida Sans';
     font-size: small;
     font-size: 12px;
-    background-color:rgb(66, 56, 10);
+    background-color:rgb(140, 191, 224);
     }
     .lista {
     font-family: 'Lucida Sans';
